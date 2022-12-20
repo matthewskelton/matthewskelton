@@ -1,7 +1,7 @@
 ### Matthew Skelton online
 
 <p>🌐 <a href="https://blog.matthewskelton.net/" rel="me">matthewskelton.net</a></p>
-<p>🐘 <a href="https://mastodon.social/@matthewskelton/" rel="me">@matthewskelton<wbr/>@mastodon.social</a></p>
+<p>🐘 <a href="https://mastodon.social/@matthewskelton" rel="me">@matthewskelton<wbr/>@mastodon.social</a></p>
 <p>🔗 <a href="https://www.linkedin.com/in/matthewskelton/" rel="me">matthewskelton</a></p>
 <p>🐦 <a href="https://twitter.com/matthewpskelton" rel="me">@matthewpskelton - frozen 🥶</a></p>
 
